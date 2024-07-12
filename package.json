@@ -1,0 +1,24 @@
+{
+  "name": "ohada-plan",
+  "version": "1.0.0",
+  "description": "This is for the display of OHADA's accounting plans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afanyuy-caleb/ohada-accounting-plan.git"
+  },
+  "keywords": [
+    "OHADA",
+    "accounting",
+    "plan"
+  ],
+  "author": "Afanyuy Caleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afanyuy-caleb/ohada-accounting-plan/issues"
+  },
+  "homepage": "https://github.com/afanyuy-caleb/ohada-accounting-plan#readme"
+}

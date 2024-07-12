@@ -1,0 +1,634 @@
+[
+ {
+   "ACCOUNT": 7011,
+   "NAME": "Within the region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 701,
+   "PARENT ACC": "SALES OF GOODS"
+ },
+ {
+   "ACCOUNT": 7012,
+   "NAME": "Off region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 701,
+   "PARENT ACC": "SALES OF GOODS"
+ },
+ {
+   "ACCOUNT": 7013,
+   "NAME": "To group companies within the region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 701,
+   "PARENT ACC": "SALES OF GOODS"
+ },
+ {
+   "ACCOUNT": 7014,
+   "NAME": "To group companies off region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 701,
+   "PARENT ACC": "SALES OF GOODS"
+ },
+ {
+   "ACCOUNT": 7021,
+   "NAME": "Within the region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 702,
+   "PARENT ACC": "SALES OF FINISHED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7022,
+   "NAME": "Off region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 702,
+   "PARENT ACC": "SALES OF FINISHED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7023,
+   "NAME": "To group companies within the region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 702,
+   "PARENT ACC": "SALES OF FINISHED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7024,
+   "NAME": "To group companies off region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 702,
+   "PARENT ACC": "SALES OF FINISHED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7031,
+   "NAME": "Within the region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 703,
+   "PARENT ACC": "SALES OF INTERMEDIATED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7032,
+   "NAME": "Off region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 703,
+   "PARENT ACC": "SALES OF INTERMEDIATED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7033,
+   "NAME": "To group companies within the region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 703,
+   "PARENT ACC": "SALES OF INTERMEDIATED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7034,
+   "NAME": "To group companies off region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 703,
+   "PARENT ACC": "SALES OF INTERMEDIATED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7041,
+   "NAME": "Within the region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 704,
+   "PARENT ACC": "SALES OF RESIDUAL PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7042,
+   "NAME": "Off region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 704,
+   "PARENT ACC": "SALES OF RESIDUAL PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7043,
+   "NAME": "To group companies within the region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 704,
+   "PARENT ACC": "SALES OF RESIDUAL PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7044,
+   "NAME": "To group companies off region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 704,
+   "PARENT ACC": "SALES OF RESIDUAL PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7051,
+   "NAME": "Within the region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 705,
+   "PARENT ACC": "WORKS INVOICED"
+ },
+ {
+   "ACCOUNT": 7052,
+   "NAME": "Off region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 705,
+   "PARENT ACC": "WORKS INVOICED"
+ },
+ {
+   "ACCOUNT": 7053,
+   "NAME": "To group companies within the region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 705,
+   "PARENT ACC": "WORKS INVOICED"
+ },
+ {
+   "ACCOUNT": 7054,
+   "NAME": "To group companies off region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 705,
+   "PARENT ACC": "WORKS INVOICED"
+ },
+ {
+   "ACCOUNT": 7061,
+   "NAME": "Within the region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 706,
+   "PARENT ACC": "SERVICES SOLD"
+ },
+ {
+   "ACCOUNT": 7062,
+   "NAME": "Off region (5)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 706,
+   "PARENT ACC": "SERVICES SOLD"
+ },
+ {
+   "ACCOUNT": 7063,
+   "NAME": "To group companies within the region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 706,
+   "PARENT ACC": "SERVICES SOLD"
+ },
+ {
+   "ACCOUNT": 7064,
+   "NAME": "To group companies off region",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 706,
+   "PARENT ACC": "SERVICES SOLD"
+ },
+ {
+   "ACCOUNT": 7071,
+   "NAME": "Carriages, non-returnable containers and other expenses invoiced",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": 7072,
+   "NAME": "Commissions and brokerages (6)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": 7073,
+   "NAME": "Hiring (6)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": 7074,
+   "NAME": "Bonus on return and sales of containers",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": 7075,
+   "NAME": "Services rendered to personnel (6)",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": 7076,
+   "NAME": "Rents from licenses, package software�s, trademarks and similar rights",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": 7077,
+   "NAME": "Services operated for personnel�s interest",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": 7078,
+   "NAME": "Other accessory income",
+   "MAIN NO": 70,
+   "MAIN NAME": "SALES",
+   "PARENT NO": 707,
+   "PARENT ACC": "ACCESSORY INCOMES"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 71,
+   "MAIN NAME": "OPERATING SUBSIDIES",
+   "PARENT NO": 711,
+   "PARENT ACC": "ON EXPORT PRODUCTS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 71,
+   "MAIN NAME": "OPERATING SUBSIDIES",
+   "PARENT NO": 712,
+   "PARENT ACC": "ON IMPORT PRODUCTS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 71,
+   "MAIN NAME": "OPERATING SUBSIDIES",
+   "PARENT NO": 713,
+   "PARENT ACC": "ON BALANCE PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7181,
+   "NAME": "From the state and public collectivities",
+   "MAIN NO": 71,
+   "MAIN NAME": "OPERATING SUBSIDIES",
+   "PARENT NO": 718,
+   "PARENT ACC": "OTHER OPERATING SUBSIDIES"
+ },
+ {
+   "ACCOUNT": 7182,
+   "NAME": "From international organizations",
+   "MAIN NO": 71,
+   "MAIN NAME": "OPERATING SUBSIDIES",
+   "PARENT NO": 718,
+   "PARENT ACC": "OTHER OPERATING SUBSIDIES"
+ },
+ {
+   "ACCOUNT": 7183,
+   "NAME": "From third parties",
+   "MAIN NO": 71,
+   "MAIN NAME": "OPERATING SUBSIDIES",
+   "PARENT NO": 718,
+   "PARENT ACC": "OTHER OPERATING SUBSIDIES"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 72,
+   "MAIN NAME": "FIXED PRODUCTION (OWN USE)",
+   "PARENT NO": 721,
+   "PARENT ACC": "INTANGIBLE ASSETS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 72,
+   "MAIN NAME": "FIXED PRODUCTION (OWN USE)",
+   "PARENT NO": 722,
+   "PARENT ACC": "TANGIBLE FIXED ASSETS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 72,
+   "MAIN NAME": "FIXED PRODUCTION (OWN USE)",
+   "PARENT NO": 726,
+   "PARENT ACC": "FINANCIAL FIXED ASSETS"
+ },
+ {
+   "ACCOUNT": 7341,
+   "NAME": "Products in-process",
+   "MAIN NO": 73,
+   "MAIN NAME": "STOCK VARIATIONS OF GOODS AND SERVICES PRODUCED",
+   "PARENT NO": 734,
+   "PARENT ACC": "STOCKS VARIATIONS OF PRODUCTS IN-PROGRESS"
+ },
+ {
+   "ACCOUNT": 7342,
+   "NAME": "Works in-progress",
+   "MAIN NO": 73,
+   "MAIN NAME": "STOCK VARIATIONS OF GOODS AND SERVICES PRODUCED",
+   "PARENT NO": 734,
+   "PARENT ACC": "STOCKS VARIATIONS OF PRODUCTS IN-PROGRESS"
+ },
+ {
+   "ACCOUNT": 7351,
+   "NAME": "studies in-process",
+   "MAIN NO": 73,
+   "MAIN NAME": "STOCK VARIATIONS OF GOODS AND SERVICES PRODUCED",
+   "PARENT NO": 735,
+   "PARENT ACC": "VARIATIONS OF SERVICES IN-PROGRESS"
+ },
+ {
+   "ACCOUNT": 7352,
+   "NAME": "Services in-progres",
+   "MAIN NO": 73,
+   "MAIN NAME": "STOCK VARIATIONS OF GOODS AND SERVICES PRODUCED",
+   "PARENT NO": 735,
+   "PARENT ACC": "VARIATIONS OF SERVICES IN-PROGRESS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 73,
+   "MAIN NAME": "STOCK VARIATIONS OF GOODS AND SERVICES PRODUCED",
+   "PARENT NO": 736,
+   "PARENT ACC": "STOCK VARIATIONS OF FINISHED PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7371,
+   "NAME": "Intermediate products",
+   "MAIN NO": 73,
+   "MAIN NAME": "STOCK VARIATIONS OF GOODS AND SERVICES PRODUCED",
+   "PARENT NO": 737,
+   "PARENT ACC": "STOCK VARIATIONS OF INTERMEDIATE AND RESIDUAL PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7372,
+   "NAME": "Residual products",
+   "MAIN NO": 73,
+   "MAIN NAME": "STOCK VARIATIONS OF GOODS AND SERVICES PRODUCED",
+   "PARENT NO": 737,
+   "PARENT ACC": "STOCK VARIATIONS OF INTERMEDIATE AND RESIDUAL PRODUCTS"
+ },
+ {
+   "ACCOUNT": 7521,
+   "NAME": "Transferred share of losses (manager�s account)",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 752,
+   "PARENT ACC": "SHARES OF PROFIT OR LOSS ON JOINT TRANSACTIONS"
+ },
+ {
+   "ACCOUNT": 7525,
+   "NAME": "Profits granted by transfer (non �managerial partners� accounts)",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 752,
+   "PARENT ACC": "SHARES OF PROFIT OR LOSS ON JOINT TRANSACTIONS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 753,
+   "PARENT ACC": "SHARES OF PROFITS OR LOSS ON PARTIAL EXECUTION OF CONTRACTS OF MULTIPLE ACCOUNTING PERIODS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 754,
+   "PARENT ACC": "INCOME FROM CURRENT DISPOSAL OF FIXED ASSETS"
+ },
+ {
+   "ACCOUNT": 7581,
+   "NAME": "Director�s fees and other director�s remunerations",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 758,
+   "PARENT ACC": "SUNDRY INCOMES"
+ },
+ {
+   "ACCOUNT": 7582,
+   "NAME": "Insurance allowances received",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 758,
+   "PARENT ACC": "SUNDRY INCOMES"
+ },
+ {
+   "ACCOUNT": 7591,
+   "NAME": "On short term risks",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 759,
+   "PARENT ACC": "OPERATING PROVISIONED EXPENSES WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7593,
+   "NAME": "On stocks",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 759,
+   "PARENT ACC": "OPERATING PROVISIONED EXPENSES WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7594,
+   "NAME": "On debts",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 759,
+   "PARENT ACC": "OPERATING PROVISIONED EXPENSES WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7598,
+   "NAME": "On others participation expenses",
+   "MAIN NO": 75,
+   "MAIN NAME": "OTHER INCOMES",
+   "PARENT NO": 759,
+   "PARENT ACC": "OPERATING PROVISIONED EXPENSES WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 771,
+   "PARENT ACC": "INTEREST FROM LOANS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 772,
+   "PARENT ACC": "INCOMES FROM INVESTMENTS"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 773,
+   "PARENT ACC": "CASH DISCOUNTS RECEIVED"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 774,
+   "PARENT ACC": "INCOMES FROM INVESTMENTS SECURITIES (SHORT TERM)"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 776,
+   "PARENT ACC": "PROFITS FROM EXCHANGE"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 777,
+   "PARENT ACC": "EARNINGS FROM DISPOSAL OF INVESTMENT SECURITIES (SHORT TERM)"
+ },
+ {
+   "ACCOUNT": 7781,
+   "NAME": "On life annuities",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 778,
+   "PARENT ACC": "INCOME FROM FINANCIAL RISKS"
+ },
+ {
+   "ACCOUNT": 7782,
+   "NAME": "On financial transactions",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 778,
+   "PARENT ACC": "INCOME FROM FINANCIAL RISKS"
+ },
+ {
+   "ACCOUNT": 7784,
+   "NAME": "On treasury instruments",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 778,
+   "PARENT ACC": "INCOME FROM FINANCIAL RISKS"
+ },
+ {
+   "ACCOUNT": 7791,
+   "NAME": "On financial risks",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 779,
+   "PARENT ACC": "FINANCIAL PROVISIONED EXPENSES WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7795,
+   "NAME": "On investment securities (short term)",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 779,
+   "PARENT ACC": "FINANCIAL PROVISIONED EXPENSES WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7798,
+   "NAME": "Other financial provisioned expenses",
+   "MAIN NO": 77,
+   "MAIN NAME": "FINANCIAL INCOMES AND ASSIMILATED INCOMES",
+   "PARENT NO": 779,
+   "PARENT ACC": "FINANCIAL PROVISIONED EXPENSES WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 78,
+   "MAIN NAME": "EXPENSES TRANSFER",
+   "PARENT NO": 781,
+   "PARENT ACC": "OPERATING EXPENSES TRANSFER"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 78,
+   "MAIN NAME": "EXPENSES TRANSFER",
+   "PARENT NO": 787,
+   "PARENT ACC": "FINANCIAL EXPENSES TRANSFER"
+ },
+ {
+   "ACCOUNT": 7911,
+   "NAME": "For risks and expenses",
+   "MAIN NO": 79,
+   "MAIN NAME": "PROVISIONED WRITTEN BACK",
+   "PARENT NO": 791,
+   "PARENT ACC": "OPERATING PROVISIONED WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7912,
+   "NAME": "For heavy repairs",
+   "MAIN NO": 79,
+   "MAIN NAME": "PROVISIONED WRITTEN BACK",
+   "PARENT NO": 791,
+   "PARENT ACC": "OPERATING PROVISIONED WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7913,
+   "NAME": "For intangible fixed assets",
+   "MAIN NO": 79,
+   "MAIN NAME": "PROVISIONED WRITTEN BACK",
+   "PARENT NO": 791,
+   "PARENT ACC": "OPERATING PROVISIONED WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7914,
+   "NAME": "For tangible fixed assets",
+   "MAIN NO": 79,
+   "MAIN NAME": "PROVISIONED WRITTEN BACK",
+   "PARENT NO": 791,
+   "PARENT ACC": "OPERATING PROVISIONED WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7971,
+   "NAME": "For risks and expenses",
+   "MAIN NO": 79,
+   "MAIN NAME": "PROVISIONED WRITTEN BACK",
+   "PARENT NO": 797,
+   "PARENT ACC": "FINANCIAL PROVISIONED WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": 7972,
+   "NAME": "For financial fixed assets",
+   "MAIN NO": 79,
+   "MAIN NAME": "PROVISIONED WRITTEN BACK",
+   "PARENT NO": 797,
+   "PARENT ACC": "FINANCIAL PROVISIONED WRITTEN BACK"
+ },
+ {
+   "ACCOUNT": null,
+   "NAME": "",
+   "MAIN NO": 79,
+   "MAIN NAME": "PROVISIONED WRITTEN BACK",
+   "PARENT NO": 798,
+   "PARENT ACC": "DEPRECIATIONS WRITTEN BACK"
+ }
+]
